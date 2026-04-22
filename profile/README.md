@@ -11,7 +11,7 @@
   ·
   <a href="mailto:duaarahtech@gmail.com">duaarahtech@gmail.com</a>
   ·
-  <a href="https://www.linkedin.com/company/2arah-tech">2Arah Tech Linkedin</a>
+  <a href="https://www.linkedin.com/company/2arah-tech">Linkedin</a>
 </p>
 
 ## Tentang Kami
