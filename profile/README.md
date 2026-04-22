@@ -10,6 +10,8 @@
   <a href="https://wa.me/62859106620336">WhatsApp</a>
   ·
   <a href="mailto:duaarahtech@gmail.com">duaarahtech@gmail.com</a>
+  ·
+  <a href="https://www.linkedin.com/company/2arah-tech">2Arah Tech Linkedin</a>
 </p>
 
 ## Tentang Kami
